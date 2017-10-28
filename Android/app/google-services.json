@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "431513925148",
+    "firebase_url": "https://keyclue-f7.firebaseio.com",
+    "project_id": "keyclue-f7",
+    "storage_bucket": "keyclue-f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431513925148:android:73f0d53680de4044",
+        "android_client_info": {
+          "package_name": "com.keyclue.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431513925148-e4iuoe822j4vqkde6vritl3mg1eq7jpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAimkLfPB1RBWgmoz9XTYzVe6VwZI5bNIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
