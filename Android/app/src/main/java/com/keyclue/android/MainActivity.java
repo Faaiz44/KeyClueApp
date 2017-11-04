@@ -260,16 +260,18 @@ public class MainActivity extends AppCompatActivity {
     public void onBackPressed(){
         if (wv.canGoBack()) {
             wv.goBack();
-        }else {
-            super.onBackPressed();
         }
+//        }else {
+//            super.onBackPressed();
+//        }
     }
 
     public void onForwardPressed(){
         if(wv.canGoForward()) {
             wv.goForward();
-        }else{
-            super.finish();
         }
+//        }else{
+//            super.finish();
+//        }
     }
 }

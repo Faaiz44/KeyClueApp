@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Documents\GitHub\KeyClueApp\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hp\Documents\GitHub\KeyClueApp\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9a453c94b10c63a1b3d199f62cd29b3c1e792dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Documents\GitHub\KeyClueApp\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cc11da2e156d19f979abdaea3c2778db1b85039">
+        <dex dex="C:\Users\hp\Documents\GitHub\KeyClueApp\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c13a4e181935a990b91a0ea28b20112de4308d8b\classes.dex" />
+    </item>
+
+</items>

@@ -4,40 +4,26 @@
 
     <item
         android:id="@+id/action_account"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:icon="@drawable/icons8_account_50"
         android:orientation="horizontal"
-        android:layout_marginLeft="10dp"
         android:title="" />
 
     <item
         android:id="@+id/action_backfilled"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:icon="@drawable/icons8_back_filled_50"
         android:title=""
         android:visible="true"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="20dp"
         android:orientation="horizontal"/>
 
     <item
         android:id="@+id/action_forwardfilled"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:icon="@drawable/icons8_forward_filled_50"
         android:orientation="horizontal"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="20dp"
         android:title="" />
     <item
         android:id="@+id/action_shoppingcart"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:icon="@drawable/icons8_shopping_cart_50"
         android:orientation="horizontal"
-        android:layout_marginLeft="40dp"
         android:title="" />
 
 </menu>
