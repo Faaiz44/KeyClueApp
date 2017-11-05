@@ -6,6 +6,9 @@ import android.support.design.internal.BottomNavigationItemView;
 import android.support.design.internal.BottomNavigationMenuView;
 import android.support.design.widget.BottomNavigationView;
 import android.util.Log;
+import android.view.Gravity;
+import android.view.View;
+
 import java.lang.reflect.Field;
 
 public class BottomNavigationViewHelper {
@@ -18,6 +21,8 @@ public class BottomNavigationViewHelper {
             shiftingMode.setAccessible(false);
             for (int i = 0; i < menuView.getChildCount(); i++) {
                 BottomNavigationItemView item = (BottomNavigationItemView) menuView.getChildAt(i);
+
+
                 //noinspection RestrictedApi
                 item.setShiftingMode(false);
                 // set once again checked value, so view will be updated
